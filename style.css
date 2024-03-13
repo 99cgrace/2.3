@@ -1,0 +1,14 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+p {
+  color: black;
+  font-size: 12px; /*added the dash between fontsize*/
+}
+h1 {
+  font-weight: bold;
+  color: blue; /*changed color to blue*/
+}
+h2 {
+  color: green;
+} /*changed color to green*/
